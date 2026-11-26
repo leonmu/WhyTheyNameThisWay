@@ -1,0 +1,17 @@
+## Interface: 16001, 11508, 11507, 120001, 120000, 110207
+## Title: Why They Name This Way
+## Notes: Hover over a zone, NPC, item or spell to learn what the English words in its name mean.
+## Author: leonmu
+## X-License: GPL-3.0
+## X-Website: https://github.com/leonmu/WhyTheyNameThisWay
+## Version: 1.3.0
+## SavedVariables: WhyTheyNameThisWayDB
+
+Data.lua
+Levels.lua
+DataForever.lua
+DataZH.lua
+Names.lua
+NamesZH.lua
+Translate.lua
+Core.lua
