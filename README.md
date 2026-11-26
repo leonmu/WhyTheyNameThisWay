@@ -20,10 +20,11 @@ Built for **WoW Forever** (client 1.60.x). It may also load on other modern clie
 
 ## Install
 
-1. Download this repository (**Code → Download ZIP**) and unzip it.
-2. Rename the folder to `WhyTheyNameThisWay` if needed and move it to
-   `World of Warcraft\_forever_\Interface\AddOns\`.
+1. Download `WhyTheyNameThisWay-<version>.zip` from the [latest release](https://github.com/leonmu/WhyTheyNameThisWay/releases/latest).
+2. Unzip it into `World of Warcraft\_forever_\Interface\AddOns\` (you should end up with `AddOns\WhyTheyNameThisWay\WhyTheyNameThisWay.toc`).
 3. Start (or fully restart) the game. If the addon shows as *out of date*, tick **Load out of date AddOns**.
+
+(If you use **Code → Download ZIP** instead, rename the unzipped folder from `WhyTheyNameThisWay-main` to `WhyTheyNameThisWay`.)
 
 ## Commands
 
@@ -79,8 +80,8 @@ Settings are also in **Options → AddOns → Why They Name This Way**.
 
 ### 安装
 
-1. 下载本仓库（**Code → Download ZIP**）并解压。
-2. 确认文件夹名为 `WhyTheyNameThisWay`，放到 `World of Warcraft\_forever_\Interface\AddOns\`。
+1. 从[最新版本（Releases）](https://github.com/leonmu/WhyTheyNameThisWay/releases/latest)下载 `WhyTheyNameThisWay-<版本号>.zip`。
+2. 解压到 `World of Warcraft\_forever_\Interface\AddOns\`（最终应为 `AddOns\WhyTheyNameThisWay\WhyTheyNameThisWay.toc`）。
 3. 启动（或完全重启）游戏。如果插件显示「过期」，勾选「载入过期插件」。
 
 ### 常用命令
